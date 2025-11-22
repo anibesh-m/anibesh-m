@@ -11,19 +11,9 @@ The goal is to demonstrate **real-world patterns**, including orchestration, SQL
   <img src="https://komarev.com/ghpvc/?username=anibeshm7&color=blueviolet&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Bengaluru,%20India-orange" />
-  <img src="https://img.shields.io/badge/AWS-CCP-red" />
-  <img src="https://img.shields.io/badge/GCP-BigQuery-blue" />
-  <img src="https://img.shields.io/badge/Airflow-Orchestration-green" />
-  <img src="https://img.shields.io/badge/SQL-Analytics-orange" />
-</p>
-
 ---
 
 ## ⏰ Live Time
-
-> Automatically shows my local time ⬇
 
 ![Time](https://img.shields.io/badge/dynamic/json?url=https://worldtimeapi.org/api/timezone/Asia/Kolkata&query=datetime&label=IST%20Time&color=blue)
 
