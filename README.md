@@ -64,17 +64,18 @@ I enjoy solving analytics problems end-to-end — right from data ingestion and 
 
 <div align="center">
 
-## 📦 My Data Engineering Workflow Pipeline
+### 📦 My Data Engineering Workflow Pipeline
 
 ```mermaid
 graph LR
-    A[📥 Raw Data Sources <br/>(Apps, APIs, DBs, Files)] --> B[☁️ GCS Landing Zone <br/>(Raw Zone)]
-    B --> C[🐍 Python Processing <br/>Validation + QC]
-    C --> D[⏱️ Airflow / Composer <br/>Scheduling & Automation]
-    D --> E[🗄️ BigQuery <br/>Transformations + Modeling]
-    E --> F[📐 Semantic Layer / Data Marts <br/>(Star Schema, Metrics Layer)]
-    F --> G[📊 Looker / Tableau / BI Layer <br/>Dashboards + Insights]
-</div> ```
+    A["Raw Data Sources (Apps / APIs / DBs / Files)"] --> B["GCS Landing Zone (Raw Zone)"]
+    B --> C["Python Processing - Validation & QC"]
+    C --> D["Airflow / Composer - Scheduling & Automation"]
+    D --> E["BigQuery - Transformations & Modeling"]
+    E --> F["Semantic Layer / Data Marts (Star Schema, Metrics Layer)"]
+    F --> G["Looker / Tableau / BI Layer - Dashboards & Insights"]
+</div>
+```
 
 ---
 
