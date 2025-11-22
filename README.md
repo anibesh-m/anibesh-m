@@ -7,11 +7,11 @@ The goal is to demonstrate **real-world patterns**, including orchestration, SQL
 
 ---
 
+## :eyes: Profile Views
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anibeshm7&color=blueviolet&style=flat" />
 </p>
-
----
 
 ## ⏰ Live Time
 
