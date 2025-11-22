@@ -14,7 +14,7 @@ The goal is to demonstrate real-world patterns, including orchestration, SQL mod
 ## 👨‍💼 About Me
 
 <a align="left">
-  <a href="https://www.linkedin.com/in/anibesh-meher-b11707173/"><img alt="LinkedIn" src="https://img.shields.io/badge/-💼 Anibesh M-0175B5?style=plastic&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/anibesh-meher-b11707173/"></a>
+  <a href="https://www.linkedin.com/in/anibesh-m/"><img alt="LinkedIn" src="https://img.shields.io/badge/-💼 Anibesh M-0175B5?style=plastic&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/anibesh-m/"></a>
   <a href="mailto:anibesh.meher7@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-anibesh.meher7@gmail.com-EB4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:anibesh.meher7@gmail.com"></a>
 </a>
 
