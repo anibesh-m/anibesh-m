@@ -11,7 +11,7 @@ The goal is to demonstrate **real-world patterns**, including orchestration, SQL
 
 | Category | Tools |
 |---------|-------|
-| Cloud | Google Cloud Platform, AWS CCP certified |
+| Cloud | Google Cloud Platform |
 | Orchestration | Apache Airflow / Cloud Composer |
 | Processing | Python |
 | Data Warehouse | BigQuery |
