@@ -74,9 +74,8 @@ graph LR
     D --> E["BigQuery - Transformations & Modeling"]
     E --> F["Semantic Layer / Data Marts (Star Schema, Metrics Layer)"]
     F --> G["Looker / Tableau / BI Layer - Dashboards & Insights"]
-</div>
 ```
-
+</div>
 ---
 
 <p align="center">⭐ If you like my work, consider leaving a star — it motivates me to share more! ⭐</p>
