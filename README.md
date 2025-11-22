@@ -10,9 +10,10 @@ The goal is to demonstrate **real-world patterns**, including orchestration, SQL
 ## :eyes: Profile
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=anibeshm7&color=blueviolet&style=flat" />
-    <a href="https://www.linkedin.com/in/anibesh-meher-b11707173/"><img alt="LinkedIn" src="https://img.shields.io/badge/-anibesh-meher-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anibesh-meher-b11707173/"></a>
-    <a href="mailto:anibesh.meher7@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-anibesh.meher7@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anibesh.meher7@gmail.com"></a>
+  <img src="https://komarev.com/ghpvc/?username=anibeshm7&color=blueviolet&style=flat" />
+  <a href="https://www.linkedin.com/in/anibesh-meher-b11707173/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Contact-blue?logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/anibesh-meher-b11707173/"><img alt="LinkedIn" src="https://img.shields.io/badge/anibesh-meher-b11707173-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anibesh-meher-b11707173/"></a>
+  <a href="mailto:anibesh.meher7@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-anibesh.meher7@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anibesh.meher7@gmail.com"></a>
 </p>
 
 ## ⏰ My Local Time
