@@ -18,5 +18,7 @@ Thumbs.db
 
 # IDE files
 .vscode/
+.venv/
+.git*
 .idea/
 *.iml
